@@ -1,0 +1,7 @@
+git commit -a -m "Commit message" -> will add and commit at the same time
+git log --status -> will show log in simmple and visual format
+git diff -> will show difference between local and staged files
+git diff --staged -> will show difference between staged and pref commit files
+git checkout -- <file_name> -> this will unmodify the file to prev commit
+git checkout --f -> this will replace conents of your files to prev commit
+git config --global alias.<new_command> <original_command (for example status)> -> To add alias
