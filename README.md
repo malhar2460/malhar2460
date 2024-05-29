@@ -12,7 +12,7 @@ Hello! I am an aspiring Data Scientist with a Bachelor of Computer Applications 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malhar2460&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 Leet Code Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/Malhar2460?ext=heatmap)(https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Malhar2460?ext=heatmap)](https://leetcode.com/JacobLinCool)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malhar2460&theme=radical&no-frame=true&no-bg=true&margin-w=4)
